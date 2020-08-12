@@ -1,0 +1,27 @@
+{
+  "name": "whadacha",
+  "version": "1.0.0",
+  "description": "Set the date attribute of WhatsApp recovered photos based on filename.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edionay/Whadacha.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "google-photos"
+  ],
+  "author": "Edionay Aguiar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edionay/Whadacha/issues"
+  },
+  "homepage": "https://github.com/Edionay/Whadacha#readme",
+  "dependencies": {
+    "get-exif": "^1.0.3",
+    "modify-exif": "0.0.1"
+  }
+}
